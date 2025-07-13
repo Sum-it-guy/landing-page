@@ -43,7 +43,7 @@ landing-page/
 ├── index.html
 ├── style.css
 ├── images/
-│       └── [your-images-here]
+│       └── [images-here]
 ```
 
 ---
@@ -53,7 +53,7 @@ landing-page/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/landing-page.git
+   git clone https://github.com/Sum-it-guy/landing-page.git
    ```
 
 2. Open the `index.html` file in your browser:

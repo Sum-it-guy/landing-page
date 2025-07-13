@@ -171,6 +171,17 @@ li div{
     background-color:#1262e4 ;
  }
 
+ /*footer*/
 
+ .footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding:15px;
+    margin-bottom:auto;
+ }
 
+.footer div{
+    color:rgb(220, 217, 217)
+}
 

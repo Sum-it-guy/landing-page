@@ -142,6 +142,35 @@ li div{
    font-weight: 900;
 }
 
+/*content -4*/
+
+.content-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:60px;
+    flex-wrap: wrap;
+}
+
+.content-4 .main{
+    background-color: #1262e4;
+    display: flex;
+    padding:20px 100px;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 12px;
+    flex-wrap: wrap;
+    height:145px;
+    width: 800px;
+    
+ }
+
+ .content-4 button{
+    border-color: white;
+    border-style: solid;
+    background-color:#1262e4 ;
+ }
+
 
 
 

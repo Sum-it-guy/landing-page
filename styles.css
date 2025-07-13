@@ -116,3 +116,32 @@ li div{
     height: 150px;
     border-radius:12px;
 }
+
+/*content-3*/
+
+.content-3{
+    background-color:#E5E7EB;
+    display: flex;
+    padding:40px 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-3 .main{
+    width: 600px;
+}
+.main .quote{
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: lighter;
+    margin:0;
+}
+
+.main .quoter{
+   justify-self: flex-end;
+   font-weight: 900;
+}
+
+
+
+
